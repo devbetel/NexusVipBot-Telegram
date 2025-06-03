@@ -1,10 +1,22 @@
-Aqui está um modelo de **README.md** profissional para seu projeto no GitHub, explicando o bot de demonstração VIP com Mercado Pago:
+# NexusVIPBot - Bot de Assinaturas VIP (Demo)  
 
-```markdown
-# NexusVIPBot 🤖💎
+🤖 **Sobre o Projeto**:  
+Bot educativo para portfólio que simula um sistema de assinaturas VIP no Telegram, com:  
+- Integração com **Mercado Pago Sandbox** (pagamentos fictícios).  
+- Automação de respostas e comandos via `aiogram`.  
+- Webhooks para deploy em cloud (Render/Heroku).  
 
-Bot de demonstração para portfólio, simulando assinaturas VIP com integração ao Mercado Pago (sandbox) via Telegram.  
-**Stack**: Python + aiogram 3.x + Mercado Pago API.
+🔧 **Tecnologias**:  
+`Python` `aiogram` `Mercado Pago API` `Render`  
+
+🚀 **Objetivo**:  
+Demonstrar habilidades em:  
+- Bots Telegram com automação profissional.  
+- Integração de APIs de pagamento.  
+- Deploy de serviços em cloud.  
+
+📌 **Aviso**:  
+Este é um projeto **100% educativo**. Nenhum pagamento real é processado.  .
 
 ![Demo Preview](https://img.shields.io/badge/Status-Demo_Project-blue) 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-yellowgreen)
